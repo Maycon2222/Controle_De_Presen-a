@@ -29,3 +29,10 @@ btnAdicionar.addEventListener("click", () => {
   inputNome.value = "";
   inputNome.focus();
 });
+// retirar um nome da lista ao clicar nele
+listaAlunos.addEventListener("click", (event) => {
+  if (event.target.tagName === "LI") {
+    event.target.remove();
+    // o evento.target é o elemento que foi clicado
+  }
+});
