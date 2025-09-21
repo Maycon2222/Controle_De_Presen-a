@@ -1,0 +1,49 @@
+📋 Controle de Presenças
+
+Um sistema simples de controle de presenças feito com HTML, CSS e JavaScript puro.
+Permite adicionar alunos a uma lista de forma prática, sem permitir nomes duplicados.
+
+🚀 Funcionalidades
+
+Adicionar alunos à lista.
+
+Impede a inserção de nomes repetidos (ignora diferenças de maiúsculas/minúsculas).
+
+Interface simples e responsiva.
+
+🛠️ Tecnologias utilizadas
+
+HTML5 → Estrutura da página
+
+CSS3 → Estilização e layout
+
+JavaScript → Lógica para adicionar e validar alunos
+
+📂 Estrutura do projeto
+controle-presencas/
+│-- index.html     # Estrutura principal
+│-- style.css      # Estilos visuais
+│-- script.js      # Regras de negócio (JS puro)
+
+▶️ Como usar
+
+Abra o arquivo index.html em qualquer navegador.
+
+Digite o nome de um aluno no campo de texto.
+
+Clique no botão Adicionar Aluno.
+
+O nome será exibido na lista.
+
+Caso já exista, aparecerá um aviso.
+
+📸 Exemplo da interface
+[ Digite o nome do aluno ] [ Adicionar Aluno ]
+----------------------------------------------
+- Maria
+- João
+
+
+⚡ Projeto simples para treinar HTML, CSS e JavaScript.
+
+👉 Quer que eu deixe esse README em Markdown bonitão com emojis e seções coloridas (tipo GitHub profissional), ou você prefere deixar ele bem simples e direto?
