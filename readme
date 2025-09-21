@@ -7,6 +7,8 @@ Permite adicionar alunos a uma lista de forma prática, sem permitir nomes dupli
 
 Adicionar alunos à lista.
 
+Remover alunos da lista.
+
 Impede a inserção de nomes repetidos (ignora diferenças de maiúsculas/minúsculas).
 
 Interface simples e responsiva.
@@ -36,6 +38,8 @@ Clique no botão Adicionar Aluno.
 O nome será exibido na lista.
 
 Caso já exista, aparecerá um aviso.
+
+para remover um aluno, basta clicar no nome na lista.
 
 📸 Exemplo da interface
 [ Digite o nome do aluno ] [ Adicionar Aluno ]
